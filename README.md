@@ -1,2 +1,2 @@
-# First-practice-
-My first practice project: swapping variables in python.
+# First colab practice
+This is my first colab notebook showcasing how to swap variables
